@@ -1,0 +1,14 @@
+body {
+    background-color: mediumseagreen;
+    color: white;
+    font-family: serif;
+    padding-left: 3%;
+}
+
+.project {
+    width: 50%;
+}
+
+div {
+    margin-bottom: 5%;
+}
